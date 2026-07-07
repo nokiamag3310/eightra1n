@@ -1,8 +1,6 @@
 # eightra1n
 
-<p align="center">
-  <img src="logo.png" alt="eightra1n logo" width="220">
-</p>
+<img src="logo.png" alt="eightra1n logo" width="220">
 
 **eightra1n** is a utility that allows to downgrade your A8 devices with blobs to your desired iOS, utilizing the blackbird exploit, plus you get to retain the sep functionality. heavily inspired by turdus merula
 
