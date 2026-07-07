@@ -20,7 +20,7 @@ for eightra1n to work, you would need:
 ## credits
 **zunembxler** - the main dev of the tool
 
-**pkkf5673** - helping with stuff
+**coolscripter** - new lead dev and scripter (confirmed)
 
 ## found bugs?
 
