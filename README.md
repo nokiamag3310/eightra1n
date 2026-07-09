@@ -1,4 +1,4 @@
-# eightra1n
+# a8bird (codename eightra1n)
 
 <img src="logo.png" alt="eightra1n logo" width="220">
 
