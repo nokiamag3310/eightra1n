@@ -5,6 +5,7 @@
 **a8bird** is a utility that allows to downgrade your A8 devices with your existing SHSH blobs to your desired iOS, utilizing the blackbird exploit, plus you get to retain the sep functionality. heavily inspired by turdus merula.
 
 fine, mineek and clarity, you win... ;(
+
 i guess i was too rude
 
 ## disclaimer
