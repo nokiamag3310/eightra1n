@@ -1,6 +1,6 @@
 # stichra1n (eta s0n)
 
-<img src="logo.png" alt="eightra1n logo" width="220">
+<img src="LogoNew.png" alt="why do you care?" width="220">
 
 ## What is stitchra1n?
 
