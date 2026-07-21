@@ -1,29 +1,31 @@
-# a8bird (codename eightra1n)
+# stichra1n (eta s0n)
 
 <img src="logo.png" alt="eightra1n logo" width="220">
 
-**a8bird** is a utility that allows to downgrade your A8 devices with your existing SHSH blobs to your desired iOS, utilizing the blackbird exploit, plus you get to retain the sep functionality. heavily inspired by turdus merula.
+## What is stitchra1n?
 
-fine, mineek and clarity, you win... ;(
+Stitchra1n is a tool for downgrading or restoring A8 devices such as the iPhone 6 or 6 Plus, all while retaining SEP functionality. Only those two are supported. 
+Project also known as a8bird.
 
-i guess i was too rude
+Heavily inspired by turdus merula from Mineek and Clarity (https://sep.lol)
 
-## disclaimer
+Currently only tethered restores are supported.
 
-**a8bird** is supplied as-is without any warranty or guarantee for it to work on your device. we're not responsible for thermonuclear war, bricked iphones and your phone freaking out. please proceed with caution as eightra1n is an early expiremental tool. thank you.
+Take a look at the compatibility chart below
 
-## prep work
+## SEP Compatibility
 
-for a8bird to work, you would need:
-- your iphone 6/6 plus of course
-- an intel or apple silicon mac
-- your SHSH blob for your needed iOS version
+| iOS Version | Compatibility |
+|:---:|:-------------:|
+| 8.4.1 | Works |
+| 9.x | TBA |
+| 10.x | TBA |
+| 11.x | TBA |
+| 12.x | TBA |
 
-## credits
-**coolscripter** - lead dev and scripter
-**zunembxler** - project lead, QA tester
+## Credits
+Ernest_repairs_iOS - main developer
 
-## found bugs?
+COOLScripter- research help
 
-if you found an issue or a bug in our tool, go to the github issues tab of our repo
-
+nokiamag3310 (zunembxler) - founder of the project
