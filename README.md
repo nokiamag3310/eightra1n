@@ -17,7 +17,7 @@ Take a look at the compatibility chart below
 
 | iOS Version | Compatibility |
 |:---:|:-------------:|
-| 8.4.1 | Works |
+| 8.4.1 | Issues |
 | 9.x | TBA |
 | 10.x | TBA |
 | 11.x | TBA |
