@@ -1,31 +1,11 @@
-# stichra1n (eta s0n)
+# Forget it. Stitchra1n from Ernest is not happening
 
-<img src="LogoNew.png" alt="why do you care?" width="220">
+After seeing what Ernest came up with by making the entire script with AI, I can say that I'm having low expectations for what to come next. The script doesn't even have a SEP exploit.
 
-## What is stitchra1n?
+So, for now I'm suspending the project until I'll get a new cast of devs from my friend group.
 
-Stitchra1n is a tool for downgrading or restoring A8 devices such as the iPhone 6 or 6 Plus, all while retaining SEP functionality. Only those two are supported. 
-Project also known as a8bird.
+Currently only COOLScripter is gonna be involved, time will tell if others will join the project.
 
-Heavily inspired by turdus merula from Mineek and Clarity (https://sep.lol)
+See you soon!
 
-Currently only tethered restores are supported.
-
-Take a look at the compatibility chart below
-
-## SEP Compatibility
-
-| iOS Version | Compatibility |
-|:---:|:-------------:|
-| 8.4.1 | Issues |
-| 9.x | TBA |
-| 10.x | TBA |
-| 11.x | TBA |
-| 12.x | TBA |
-
-## Credits
-Ernest_repairs_iOS - main developer
-
-COOLScripter- research help
-
-nokiamag3310 (zunembxler) - founder of the project
+- Zune
